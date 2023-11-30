@@ -1,10 +1,9 @@
 # desafio-do-heroi. 
 # Código em Javascript
 
-//Desafio de Projeto 
-
+//Desafio de Projeto 1: CLASSIFICADOR DO NÍVEL DE HERÓI
 // Definindo o nome e a quantidade de experiência (XP) do herói
-let nomeDoHeroi = "Herói X"; // Substitua "Herói X" pelo nome do seu herói
+let nomeDoHeroi = "Herói-X"; // Substitua "Herói X" pelo nome do seu herói
 let experiencia = 2000; // Substitua o valor 2000 pela quantidade de experiência do seu herói
 
 let nivelDoHeroi;
@@ -29,4 +28,5 @@ if (experiencia < 1000) {
 }
 
 // Exibindo a mensagem com o nome do herói e seu nível
-console.log(`O Herói de nome ${nomeDoHeroi} está no nível de ${nivelDoHeroi}`);.
+console.log(`O Herói de nome ${nomeDoHeroi} está no nível de ${nivelDoHeroi}`);
+
